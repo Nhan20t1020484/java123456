@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.util.Random;
 public class bt2mangvasapxep {
-    public static void b2a(int a[],int n)
+    public static void bt2mangvasapxep (int a[],int n)
     {
          Random rand=new Random();
         for (int i=0;i<n;i++)
